@@ -1,5 +1,9 @@
 ### 基于 Quill 定制开发富文本编辑器
 
+#### 安装依赖
+
+npm install
+
 #### 开发环境
 
 web 开发 npm run dev
