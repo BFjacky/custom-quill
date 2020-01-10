@@ -53,7 +53,7 @@ export default {
       this.publishLoading = false;
     },
     preview() {
-      const previewUrl = `${window.location.href}diary/${this.diaryId}`;
+      const previewUrl = `${window.location.href}h5/${this.diaryId}`;
       window.open(previewUrl);
     }
   }

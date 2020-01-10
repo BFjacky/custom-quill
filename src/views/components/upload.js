@@ -17,7 +17,6 @@ export default {
     });
   },
   upload(files) {
-    console.log(files);
     return new Promise(resolve => {
       const uploadingList = [];
       Array.prototype.forEach.call(files, async (file, index) => {

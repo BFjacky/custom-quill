@@ -11,8 +11,8 @@ const routes = [
     component: index
   },
   {
-    path: "/diary/:id",
-    name: "diary",
+    path: "/h5/:id",
+    name: "h5",
     component: h5
   }
 ];
